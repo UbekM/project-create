@@ -136,7 +136,7 @@ h1 {
 }
 
 p {
-  font-size: 1.1rem;
+  font-size: 1rem;
   color: hsl(236, 13%, 42%);
 }
 
@@ -168,7 +168,7 @@ p {
   color: hsl(240, 100%, 5%);
   border: none;
   padding: 1rem;
-  font-size: 1.1rem;
+  font-size: 1rem;
   font-weight: 700;
   width: 50%;
   letter-spacing: 0.2rem;
@@ -209,7 +209,7 @@ h3:hover {
 }
 
 .five * h3 {
-  font-size: 1.3rem;
+  font-size: 1rem;
   font-weight: 600;
 }
 
