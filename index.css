@@ -133,6 +133,11 @@ h1 {
   padding-right: 6rem;
   line-height: 60px;
   color: hsl(240, 100%, 5%);
+
+  @media (max-width: 768px) {
+    padding-right: 0rem;
+    text-align: center;
+  }
 }
 
 p {
